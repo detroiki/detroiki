@@ -1,6 +1,6 @@
 # Hi there :wave:
 
-- Studied in :de: and :finland:
+- I studied in :de: and :finland:
   - :computer: Computer Science and 
   - :dna: Life Science Informatics 
  - :keyboard: Working in R, Python, and, occasionally in C++
