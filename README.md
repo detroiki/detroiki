@@ -6,4 +6,4 @@
  - :keyboard: Working in R, Python, and, occasionally in C++
  - :woman_juggling: Passion for data wrangling
 - :stethoscope: Using registry data to uncover insights into the factors influencing individuals disease predisposition 
-- :dizzy: Currently working [@dsgelab](https://www.dsgelab.org/)
+- :dizzy: Currently working on my PhD @ [@dsgelab](https://www.dsgelab.org/)
